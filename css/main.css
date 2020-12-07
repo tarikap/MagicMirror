@@ -111,8 +111,11 @@ sup {
 
 /**
  * Module styles.
- */
+ You can either use the “zoom” function in css, like ..modulename { transform: scale(0.8) }
 
+Or you can set a specific width for the module so it forces the text to get a row break like .modulename { width: 200px; }
+ */
+.MMM-SwissCommute {transform: scale(0.5)}
 .module {
   margin-bottom: 30px;
 }
