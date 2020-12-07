@@ -115,12 +115,12 @@ sup {
 
 Or you can set a specific width for the module so it forces the text to get a row break like .modulename { width: 200px; }
  */
-.MMM-SwissCommute {width: 100px;}
 .MMM-Spotify {transform: scale(0.8);}
 .MMM-MicrosoftToDo {transform: scale(0.9);text-align: left;}
 .currentweather {transform: scale(0.8);}
 .weather {transform: scale(0.8);}
-.weatherforecast {transform: scale(0.8);}
+.weatherforecast {transform: scale(0.8);
+                  position:-20px;}
 
 .clock {width: 100px;}
 
