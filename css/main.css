@@ -117,7 +117,8 @@ Or you can set a specific width for the module so it forces the text to get a ro
  */
 .MMM-SwissCommute {transform: scale(0.5)}
 .MMM-Spotify {transform: scale(0.8)}
-.MMM-MicrosoftToDo {transform: scale(0.8)}
+.MMM-MicrosoftToDo {transform: scale(0.7)}
+.currentweather {transform: scale(0.8)}
 .clock {width: 100px;}
 
 .module {
