@@ -1,0 +1,7 @@
+# Created by .ignore support plugin (hsz.mobi)
+spotify.config.json
+username_token.json
+*_token.json
+
+node_modules
+yarn.lock
