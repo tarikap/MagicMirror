@@ -1,8 +1,0 @@
-[
-  {
-      "USERNAME": "PI_dashboard",
-      "CLIENT_ID" : "d9119f0cd61d43bbb7ed493b961e3e9d",
-      "CLIENT_SECRET" : "ef982ba92e3d4969adfcb3645b75982d",
-      "TOKEN" : "./username_token.json"
-  }
-]
