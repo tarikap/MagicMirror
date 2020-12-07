@@ -8,14 +8,14 @@
 
 .MMM-SwissCommute {
   font-size: 40%;
-  line-height: 65px;
+  line-height: 40x;
   -ms-transform: translate(0, -3px); /* IE 9 */
   -webkit-transform: translate(0, -3px); /* Safari */
   transform: translate(0, -3px);
 }
 
 .MMM-SwissCommute table {
-    width: 150px;
+    width: 180px;
 }
 
 .MMM-SwissCommute .red {
